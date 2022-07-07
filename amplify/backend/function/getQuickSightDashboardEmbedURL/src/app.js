@@ -79,7 +79,7 @@ app.get('/getQuickSightDashboardEmbedURL', function(req, res) {
                             });
                             var registerUserParams = {
                                 // required
-                                AwsAccountId: "943952228413",
+                                AwsAccountId: "402167205291",
                                 // can be passed in from api-gateway call
                                 Email: req.query.email,
                                 // can be passed in from api-gateway call
